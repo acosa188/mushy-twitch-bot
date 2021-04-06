@@ -1,0 +1,24 @@
+{
+  "name": "mushy-twitch-bot",
+  "version": "1.0.0",
+  "description": "Mushy dumpling twitch bot that can do fun stuff.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acosa188/mushy-twitch-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acosa188/mushy-twitch-bot/issues"
+  },
+  "homepage": "https://github.com/acosa188/mushy-twitch-bot#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "tmi.js": "^1.7.5"
+  }
+}
